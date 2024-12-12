@@ -1,0 +1,5 @@
+To initiate a new gift exchange drawing, enter the names of each participant.
+Once all the names are on the list, click the Finalize List button.
+In the window that follows, each participant selects their own name
+from the list and then clicks the hat to draw a name. Once all names
+are drawn, the final list is displayed on the screen.
